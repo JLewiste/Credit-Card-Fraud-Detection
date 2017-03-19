@@ -1,8 +1,6 @@
 # Credit-Card-Fraud-Detection
 
-<center>
 ![Pictures](Pictures/ccard.jpg)
-</center>
 
 Anonymized credit card transactions labelled as fraudulent or genuine.
 
